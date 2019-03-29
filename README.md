@@ -1,6 +1,6 @@
-## This is an application of line command in Node
+# This is an application of line command in Node
 
-# In this part contains:
+## In this part contains:
 1. Add validations in Yargs.
 2. Create automatic help for commands.
 3. Save in FyleSystem.
